@@ -1,4 +1,4 @@
-# Finance App!
+# Finance App
 
 This is a full-stack finance management application developed as part of my **Database Management Systems (DBMS)** project. It simplifies financial tracking and reporting while showcasing integration between frontend and backend technologies.
 
